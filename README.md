@@ -29,6 +29,6 @@ WebPay is a secure and user-friendly web banking system that allows users to per
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/webpay-banking-system.git
+   git clone https://github.com/abhay7888/webpay-banking-system.git
    cd webpay-banking-system
 
