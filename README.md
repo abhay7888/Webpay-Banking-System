@@ -1,6 +1,3 @@
-# Webpay-Banking-System
-💳 A web banking and digital payment system with secure user transactions and modern UI
-
 # 💳 WebPay – Web Banking and Digital Payment System
 
 WebPay is a secure and user-friendly web banking system that allows users to perform banking activities like account management, balance checking, fund transfers, and transaction history. It combines a modern UI with robust backend technologies.
